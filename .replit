@@ -1,2 +1,2 @@
 language = "python3"
-run="python Chapter5/5-11.py --arg1 --arg2 --arg3"
+run="python Chapter6/6-2.py --arg1 --arg2 --arg3"
