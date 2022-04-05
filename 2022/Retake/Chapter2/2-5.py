@@ -1,0 +1,1 @@
+print('Albert Einstein once said, "One cannot help but be in awe when he contemplates the mysteries of eternity, of life of the marvellous structure of reality."')

@@ -1,0 +1,2 @@
+message = "Code"
+print(message)
